@@ -1,12 +1,56 @@
 Minetest Game mod: default
 ==========================
 See license.txt for license information.
+
 THIS IS NOT THE NORMAL DEFAULT MOD. This is a stripped down version,
 curated by ACrazyNewfie, intended to allow games other than MTG to
 work with mods that need sounds, functions, etc. from this mod. This
 stripped down version does not register any items or affect the mapgen.
 It's sole purpose is to allow mods that rely on the helper functions
 to continue working in other games.
+
+Mods that work with this mod (not an exhaustive list):
+
+3d_armor
+beds
+binoculars
+boats
+bones
+bucket
+butterflies
+carts
+creative
+default_stripped
+doors
+dungeon_loot
+dye
+env_sounds
+fireflies
+flowers
+game_commands
+give_initial_stuff
+homedecor_modpack (if the mods "fake_fire" and "homedecor_3d_extras" are disabled)
+map
+mobkit
+mobs
+mobs_animal
+mobs_monster
+petz
+player_api
+screwdriver
+sethome
+sfinv
+spawn
+stairs
+technic
+unified_inventory
+vehicles
+vessels
+walls
+water_life
+weather
+wool
+xpanes
 
 Authors of source code
 ----------------------

@@ -10,17 +10,20 @@ It's sole purpose is to allow mods that rely on the helper functions
 to continue working in other games.
 
 Mods that work with this mod (not an exhaustive list):
-
 3d_armor
+advtrains
+basic_materials
 beds
 binoculars
+biome_lib
 boats
 bones
+bows
 bucket
 butterflies
 carts
+craftguide
 creative
-default_stripped
 doors
 dungeon_loot
 dye
@@ -29,28 +32,45 @@ fireflies
 flowers
 game_commands
 give_initial_stuff
+goblins
+handle_schematics
+headanim
 homedecor_modpack (if the mods "fake_fire" and "homedecor_3d_extras" are disabled)
+laptop
+lucky_block
+luxury_decor
 map
 mobkit
 mobs
 mobs_animal
 mobs_monster
-petz
+mobs_npc
+mob_core
+mob_horse
+moreores
+moreswords
 player_api
+protector
 screwdriver
 sethome
 sfinv
+skinsdb
 spawn
 stairs
-technic
+travelnet
+unifieddyes
 unified_inventory
-vehicles
 vessels
 walls
 water_life
 weather
+wildlife
 wool
+working_villages
+worldedit
+xdecor
 xpanes
+
 
 Authors of source code
 ----------------------
